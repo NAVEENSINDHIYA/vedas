@@ -10,7 +10,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>SDIS--Test</title>
+  <title>ANS</title>
 
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" type="text/css" href="assets/css/icons.css" />
