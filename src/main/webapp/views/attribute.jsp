@@ -10,7 +10,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>SDIS</title>
+  <title>SDIS--Test</title>
 
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" type="text/css" href="assets/css/icons.css" />
@@ -878,7 +878,7 @@ var   layerselected=[];
           
 		  SectorLayer=	  new ol.layer.Tile({
 			 	source : new ol.source.TileWMS({
-					url : 'http://localhost:8999/geoserver/cite/wms',
+					url : 'http://localhost:8080/geoserver/cite/wms',
 					//crossOrigin: 'anonymous',
 					params : {
 						'LAYERS' : styleName,
